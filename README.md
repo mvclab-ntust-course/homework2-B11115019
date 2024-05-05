@@ -2,3 +2,6 @@
 # Week 2
 ![image](https://github.com/mvclab-ntust-course/homework2-B11115019/assets/127180001/4bce9b3f-b733-4483-9f73-a1a235fe90b0)
 ![image](https://github.com/mvclab-ntust-course/homework2-B11115019/assets/127180001/8efe7113-9d78-4241-9e60-8b6688708314) 這張照片裡面的"I change both in fruit.txt"就是resolve conflict的結果, 我選擇的解決辦法是解決 "Accept both changes"
+
+
+hw3的json檔名稱是"instances_default.json"
